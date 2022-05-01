@@ -36,4 +36,4 @@ les 3 choses que j'aime le plus pour travailler en equipe sont la communication,
 
 ## Mon gif favori
 
-![This is an image!](https://blog.hubspot.com/hubfs/Smiling%20Leo%20Perfect%20GIF.gif)
+![This is an image](https://blog.hubspot.com/hubfs/Smiling%20Leo%20Perfect%20GIF.gif)
